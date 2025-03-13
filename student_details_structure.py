@@ -3,7 +3,8 @@ last_name = "Cataloglu"
 index = 34854
 nationality = "Turkey"
 starting_date = "03-09-2024"
-courses= ["mathematice","English","computer science"]
+courses= "mathematice" "English" "computer science"
+
 print (first_name)
 print (last_name )
 print (index)
